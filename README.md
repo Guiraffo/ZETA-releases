@@ -1,3 +1,6 @@
+# [DEPRECATED]
+This toolbox is now being developed and maintained in https://github.com/ZETA-Toolbox.
+
 # ZETA
 
 **Z**onotope-based **E**s**T**imation and f**A**ult diagnosis of discrete-time systems
